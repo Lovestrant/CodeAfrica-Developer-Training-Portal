@@ -12,6 +12,8 @@
 }
 .TheDiv {
     padding: 20px;
+
+    
 }
 .HorizontalDiv{
   margin-left: 20px;
@@ -19,4 +21,13 @@
   padding-top: 10px;
   display: flex;
   align-items:flex-end;
+}
+.active {
+    color: yellow;
+}
+.initial {
+    color: red;
+}
+.SideActive {
+   background-color: green; 
 }

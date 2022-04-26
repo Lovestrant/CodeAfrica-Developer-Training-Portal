@@ -3,6 +3,7 @@ import Toolbar from "@material-ui/core/Toolbar";
 import AppBar from "@material-ui/core/AppBar";
 import Typography from "@material-ui/core/Typography";
 import Header from '../Auth/header';
+import '../Auth/css/header.css'
 import { NavLink } from 'react-router-dom';
 import { Box } from '@material-ui/core';
 
@@ -16,19 +17,20 @@ function DashboardHeader() {
             {/* whatever is on the left side */}
             <div> <Header /></div>
         </Box>
-        <div className='HorizontalDiv' style={{display: "flex", alignItems: "right"}}>
-             <div className='TheDiv'>
-             <NavLink activeClassName="active" style={{color: "red"}} to="/Notifications">Notifications</NavLink>
+        
+              <Typography >
+              <div className='HorizontalDiv' style={{display: "flex", alignItems: "right"}}>
+             <div className='TheDiv' >
+             <NavLink activeClassName="active"  to="/Notifications">Notifications</NavLink>
              </div>
              <div className='TheDiv'>
-              <NavLink activeClassName="active" style={{color: "red"}} to="/Profile">Profile</NavLink>
+              <NavLink activeClassName="active" to="/Profile">Profile</NavLink>
               </div>
 
               <div className='TheDiv'>
-              <NavLink activeClassName="active" style={{color: "red"}} to="/Messages">Messages</NavLink>
+              <NavLink activeClassName="active" to="/Messages">Messages</NavLink>
               </div>
               </div>
-              <Typography >
      {/* <div style={{display: "flex", alignItems: "flex-end"}}><button style={{color: "red", backgroundColor: "rgb(208, 195, 195)"}}>Log Out</button></div> */}
                     
               </Typography>
