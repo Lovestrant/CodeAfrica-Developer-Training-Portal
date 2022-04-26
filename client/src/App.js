@@ -28,7 +28,6 @@ function App() {
         <Route path="/Messages" element = {<Messages />}></Route>
         <Route path="/Notifications" element = {<Notifications />}></Route>
         <Route path="/Profile" element = {<Profile />}></Route>
-        <Route path="/Dashboard" element = {<Dashboard />}></Route>
         <Route path="/Payments" element = {<Payments />}></Route>
         <Route path="/Articles" element = {<Articles />}></Route>
         <Route path="/DeveloperCourses" element = {<DeveloperCourses />}></Route>
