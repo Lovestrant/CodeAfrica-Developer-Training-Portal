@@ -1,0 +1,22 @@
+.header {
+    height: 80px;
+    background-color: #9494E9;
+}
+.headerText {
+    text-align: start;
+    padding: 30px;
+    color: black;
+}
+.active {
+    color: yellow;
+}
+.TheDiv {
+    padding: 20px;
+}
+.HorizontalDiv{
+  margin-left: 20px;
+  margin-top: 10px;
+  padding-top: 10px;
+  display: flex;
+  align-items:flex-end;
+}

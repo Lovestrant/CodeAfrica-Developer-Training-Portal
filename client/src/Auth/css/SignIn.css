@@ -1,0 +1,43 @@
+.secHeader {
+    text-align: center;
+    margin-left: -20px;
+    color: red;
+}
+.username,.password {
+    height: 30px;
+    width: 400px;
+    text-align: center;
+    background-color: rgb(208, 195, 195);
+}
+.loginBtn {
+    color: Red;
+    background-color: rgb(208, 195, 195);
+    height: 30px;
+    width: 100px;
+}
+.loginWithGoogle {
+    color: black;
+    background-color: #C94A4A;
+    height: 30px;
+    width: 200px;
+}
+ .loginWithLinkedIn{
+    color: black;
+    background-color: rgb(59, 156, 189);
+    height: 30px;
+    width: 200px;
+
+ } 
+ .loginWithFacebook {
+    color: black;
+    background-color: #0A3FFA;
+    height: 30px;
+    width: 200px;
+
+}
+.ResetBtn {
+    color: Red;
+    background-color: rgb(208, 195, 195);
+    height: 30px;
+    width: 200px; 
+}
