@@ -10,4 +10,4 @@ https://raw.githubusercontent.com/Lovestrant/CodeAfrica-Developer-Training-Porta
 
 THE PROJECT'S PROTOTYPE (FIGMA PROTOTYPE) 
 
-https://www.figma.com/proto/piwBvIVbfBHWiOrAATAxA3/CodeAfrica's-Developer-Portal-Prototype?node-id=31%3A24&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=5%3A56
+https://www.figma.com/proto/piwBvIVbfBHWiOrAATAxA3/CodeAfrica's-Developer-Portal-Prototype?node-id=5%3A56&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=5%3A56
